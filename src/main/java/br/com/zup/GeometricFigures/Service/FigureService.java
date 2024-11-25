@@ -4,6 +4,7 @@ import br.com.zup.GeometricFigures.dtos.FigureResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
+import java.util.List;
 
 @Service
 public class FigureService {
